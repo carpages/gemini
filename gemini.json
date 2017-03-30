@@ -1,7 +1,6 @@
 {
   "paths": {
     "requireLib"                    : "requirejs/require",
-    "async"                         : "requirejs-plugins/src/async",
     "jquery"                        : "jquery/dist/jquery",
     "underscore"                    : "underscore/underscore",
     "handlebars"                    : "handlebars/handlebars.runtime",
@@ -11,6 +10,7 @@
     "jquery.hammer"                 : "jquery-hammerjs/jquery.hammer",
     "jquery.placeholder"            : "jquery-placeholder/jquery.placeholder",
     "jquery.cookie"                 : "jquery-cookie/jquery.cookie",
+    "google-maps"                   : "google-maps/lib/Google",
     "gemini"                        : "gemini-loader/gemini",
     "gemini.geolocation"            : "gemini-geolocation/gemini.geolocation",
     "gemini.modal"                  : "gemini-modal/gemini.modal",

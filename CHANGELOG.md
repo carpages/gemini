@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.1.1
+
+  - Add path for gmaps google-maps dep
+
 ## v1.1.0
 
   - Update form, gmaps, geolocation
