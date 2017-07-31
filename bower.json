@@ -21,7 +21,7 @@
     "gemini-carousel": "1.x",
     "gemini-touch": "0.x",
     "gemini-activator": "0.x",
-    "gemini-loader": "0.x",
+    "gemini-loader": "0.3.x",
     "gemini-support": "0.x"
   }
 }
