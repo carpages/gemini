@@ -13,7 +13,7 @@
     "gemini-popdrop": "1.x",
     "gemini-modal": "1.x",
     "gemini-lazyload": "0.x",
-    "gemini-gmaps": "2.x",
+    "gemini-gmaps": "3.x",
     "gemini-geolocation": "1.x",
     "gemini-gallery": "1.x",
     "gemini-form": "2.x",
@@ -21,7 +21,10 @@
     "gemini-carousel": "1.x",
     "gemini-touch": "0.x",
     "gemini-activator": "0.x",
-    "gemini-loader": "0.3.x",
+    "gemini-loader": "0.5.x",
     "gemini-support": "0.x"
+  },
+  "resolutions": {
+    "jquery": ">= 3"
   }
 }
